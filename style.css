@@ -1,0 +1,64 @@
+
+body{
+    padding: 20px;
+    background-color: #c0c0c0;
+    color: #ffffff;
+    font-family: Arial, verdana, sans-serif;
+}
+h1{
+    background-color: #ffffff;
+    background-color: hsla(0,100%,100%,0.5);
+    color: #000000;
+    padding: inherit;
+    /* text-shadow: 2px 2px 5px black; */
+}
+p{
+    padding: 5px;
+    margin: 0%;
+}
+
+.scale2{
+    background-color: rgb(3, 3, 210);
+}
+.scale3{
+    background-color: rgb(20, 9, 225);
+}
+.scale4{
+    background-color: rgb(40, 25, 245);
+}
+.scale5{
+    background-color: rgb(60, 53, 265);
+}
+.scale6{
+    background-color: rgb(80, 73, 287);
+}
+.scale7{
+    background-color: rgb(101, 94, 299);
+}
+.scale8{
+    background-color: rgb(125, 116, 319);
+}
+.scale9{
+    background-color: #0e795e;
+}
+.scale10{
+    background-color:  rgb(300,155,195);
+}
+.scale11{
+    background-color:  rgb(290,140,178);
+}
+.scale12{
+    background-color:  rgb(277,129,168);
+}
+.scale13{
+    background-color:  rgb(266,119,158);
+}
+.scale14{
+    background-color:  rgb(255,109,149);
+}
+.scale15{
+    background-color:  rgb(244,90,139);
+}
+.scale16{
+    background-color: rgb(238,60,125);
+}
